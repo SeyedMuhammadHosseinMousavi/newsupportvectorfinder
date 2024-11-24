@@ -1,4 +1,4 @@
-# newsupportvectorfinder
+# A New Support Vector Finder Method Based on Triangular Calculations and Kmeans Clustering
 Please cite below:
 Mousavi, Seyed Muhammad Hossein, S. Younes MiriNezhad, and Atiye Mirmoini. "A new support vector finder method, based on triangular calculations and K-means clustering." 2017 9th International Conference on Information and Knowledge Technology (IKT). IEEE, 2017.
 
