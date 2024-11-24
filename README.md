@@ -11,3 +11,8 @@ Finding and determining best Support vector samples, play and important role in 
 </div>
 
 ![propoed method](https://github.com/user-attachments/assets/e480d45b-6f21-43bf-a08b-718e602a823a)
+
+- DOI:
+- [https://ieeexplore.ieee.org/document/8258617](https://doi.org/10.1109/IKT.2017.8258617)
+- Please cite:
+- Mousavi, Seyed Muhammad Hossein, S. Younes MiriNezhad, and Atiye Mirmoini. "A new support vector finder method, based on triangular calculations and K-means clustering." 2017 9th International Conference on Information and Knowledge Technology (IKT). IEEE, 2017.
